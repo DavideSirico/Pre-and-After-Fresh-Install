@@ -1,10 +1,13 @@
 
- TODO list prima di formattare
+ 
+
+## TODO list prima di formattare
+
  1. Fare il Backup delle cartelle "Desktop", "Documenti", "Download", "Immagini", "Video" e %appdata%. Per effettuare li backup si può sia usare un archivio di [Winrar](https://www.winrar.it/prelievo_start.php?url=prelievo/WinRAR-x64-611it.exe) con il metodo di compressione "Memorizzazione" o utilizzare il programma [TeraCopy](https://www.codesector.com/files/teracopy.exe);
  2. Controllare altri hard disk o cartelle importanti;
  3. Creare una chiavetta bootable di [Win10](https://go.microsoft.com/fwlink/?LinkId=691209) con [Rufus](https://github.com/pbatard/rufus/releases/download/v3.18/rufus-3.18.exe).
 
-TODO list dopo aver installato win
+## TODO list dopo aver installato win
 
  1. disabilitare tutte le impostazioni inutili di windows defender;
  2. impostare la dimensione delle icone a "piccolo";
@@ -28,7 +31,7 @@ TODO list dopo aver installato win
  20. ottimizzare il dispositivo con https://github.com/hellzerg/optimizer;
  21. installare [Fira Code](https://github.com/tonsky/FiraCode).
 
-Estensioni Google Chrome:
+## Estensioni Google Chrome:
 
  1. adblocker (TODO)
  2. volume booster
@@ -50,13 +53,13 @@ Estensioni Google Chrome:
  18. [github dimension](https://github.com/harshjv/github-repo-size)
  19. [bypass paywalls](https://github.com/iamadamdev/bypass-paywalls-chrome)
 
-Better Discord / Powercord:
+## Better Discord / Powercord:
 [Link Google Drive](https://drive.google.com/drive/folders/12rYCU6oGiwo7AU8DMFrPKJmSjXiYPKqY?usp=sharing)
 
-Plugins, Temi ed impostazioni per Visual Studio Code:
+## Plugins, Temi ed impostazioni per Visual Studio Code:
 [Link Google Drive](https://drive.google.com/drive/folders/1ZhIy11_NSzQM6Abt2iF1D-4zauWEJV6o?usp=sharing)
 
-Categorie:
+## Categorie:
  1. Giochi
  2. Social
  3. Coding
