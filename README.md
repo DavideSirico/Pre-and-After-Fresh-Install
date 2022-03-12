@@ -1,19 +1,10 @@
 
-Categorie:
- 1. Giochi
- 2. Social
- 3. Coding
- 4. School
- 5. Tools
- 6. Aestethics
- 7. Touchscreen
- 
- TODO list before formatting and techics
+ TODO list prima di formattare
  1. Fare il Backup delle cartelle "Desktop", "Documenti", "Download", "Immagini", "Video" e "%appdata%". Per effettuare li backup si può sia usare un archivio di "winrar" con il metodo di compressione "Memorizzazione" o utilizzare il programma "teracopy".
  2. Controllare altri hard disk o cartelle importanti
  3. creare una chiavetta bootable di Win10 con rufus 
 
-//TODO list after installing windows
+//TODO list dopo aver installato win
 
  1. disabilitare tutte le impostazioni inutili di windows defender
  2. impostare la dimensione delle icone a "piccolo"
@@ -62,14 +53,19 @@ Estensioni Google Chrome:
  17. workona
 
 Better Discord / Powercord:
-link google drive
+[Link Google Drive](https://drive.google.com/drive/folders/12rYCU6oGiwo7AU8DMFrPKJmSjXiYPKqY?usp=sharing)
 
-Best plugins for visual studio code:
-link google drive
+Plugins, Temi ed impostazioni per Visual Studio Code:
+[Link Google Drive](https://drive.google.com/drive/folders/1ZhIy11_NSzQM6Abt2iF1D-4zauWEJV6o?usp=sharing)
 
-Best settings to change
-
-
+Categorie:
+ 1. Giochi
+ 2. Social
+ 3. Coding
+ 4. School
+ 5. Tools
+ 6. Aestethics
+ 7. Touchscreen
 powercord
 TunnelBear
 BlueStacks 5
