@@ -105,22 +105,21 @@ onenote
 penbook
 [Postman](https://dl.pstmn.io/download/latest/win64)
 [PowerToys](https://github.com/microsoft/PowerToys/releases/download/v0.56.2/PowerToysSetup-0.56.2-x64.exe)
-python
-quicklook
-spacedesk
-steam
-teracopy
-tetr.io
-wallpaper engine
-windows  terminal
-winrar
-synapse 3
-origin
-battle.net
-blender
-brave
+[Python](https://www.python.org/downloads/release/python-3102/)
+[Quicklook](https://www.microsoft.com/en-us/p/quicklook/9nv4bs3l1h4s#activetab=pivot:overviewtab)
+[Spacedesk Server](https://spacedesk.net/downloadidd64)
+[Spacedesk Client](https://spacedesk.net/downloadclient)
+[Steam](https://cdn.akamai.steamstatic.com/client/installer/SteamSetup.exe)
+[Teracopy](https://www.codesector.com/files/teracopy.exe)
+[tetr.io](https://tetr.io/about/desktop/builds/TETR.IO%20Setup.exe)
+[Windows Terminal](https://www.microsoft.com/it-it/p/windows-terminal/9n0dx20hk701?rtc=1&activetab=pivot:overviewtab)
+[Winrar](https://www.winrar.it/prelievo_start.php?url=prelievo/WinRAR-x64-611it.exe)
+[Synapse 3](https://rzr.to/synapse-3-pc-download)
+[Origin](https://www.dm.origin.com/download)
+[Battle.net](https://www.battle.net/download/getInstallerForGame?os=win&gameProgram=BATTLENET_APP&version=Live&id=187350074.1647099557)
+[Brave](https://laptop-updates.brave.com/latest/winx64)
 curse forge
-droidcam
+[Droidcam](https://files.dev47apps.net/win/DroidCam.Setup.6.5.2.exe)
 [Epic Games](https://launcher-public-service-prod06.ol.epicgames.com/launcher/api/installer/download/EpicGamesLauncherInstaller.msi?trackingId=594d5285795f4c26945a76eeb90518f4)
 factorio saves
 ftb app
