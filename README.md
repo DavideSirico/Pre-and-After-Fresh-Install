@@ -1,33 +1,32 @@
 
  TODO list prima di formattare
- 1. Fare il Backup delle cartelle "Desktop", "Documenti", "Download", "Immagini", "Video" e "%appdata%". Per effettuare li backup si può sia usare un archivio di "winrar" con il metodo di compressione "Memorizzazione" o utilizzare il programma "teracopy".
- 2. Controllare altri hard disk o cartelle importanti
- 3. creare una chiavetta bootable di Win10 con rufus 
+ 1. Fare il Backup delle cartelle "Desktop", "Documenti", "Download", "Immagini", "Video" e %appdata%. Per effettuare li backup si può sia usare un archivio di [Winrar](https://www.winrar.it/prelievo_start.php?url=prelievo/WinRAR-x64-611it.exe) con il metodo di compressione "Memorizzazione" o utilizzare il programma [TeraCopy](https://www.codesector.com/files/teracopy.exe);
+ 2. Controllare altri hard disk o cartelle importanti;
+ 3. Creare una chiavetta bootable di [Win10](https://go.microsoft.com/fwlink/?LinkId=691209) con [Rufus](https://github.com/pbatard/rufus/releases/download/v3.18/rufus-3.18.exe).
 
-//TODO list dopo aver installato win
+TODO list dopo aver installato win
 
- 1. disabilitare tutte le impostazioni inutili di windows defender
- 2. impostare la dimensione delle icone a "piccolo"
- 3. togliere le icone inutili dal desktop
- 4. installare tutti gli aggiornamenti
- 5. installare tutti i driver
- 6. disabilitare dalla funzione di ricerca di windows bing
- 7. rimuovere i collegamenti inutili dal menu start
- 8. cambiare le impostazioni di risparmio energetico
- 9. cambiare le impostazione di explorer
- 10. impostare la luce notturna
- 11. impostare l'audio predefinito
- 12. disattivare le notifiche di win
- 13. definire la posizione delle cartelle di win (documenti, download, immagini, video, etc)
- 14. disattivare i tasti permanenti
- 15. attivare win+v
- 16. disattivare l'accelerazione del mouse
- 17. impostare la rete come privata e disattivare il firewall
- 18. impostazioni barra delle applicazioni e personalizzazioni varie (icone di sistema)
- 19. disattivare l'indicizzazione
- 20. ottimizzare il dispositivo con https://github.com/hellzerg/optimizer
- 21. installare fira code
- 22. installare tutti i programmi necessari
+ 1. disabilitare tutte le impostazioni inutili di windows defender;
+ 2. impostare la dimensione delle icone a "piccolo";
+ 3. togliere le icone inutili dal desktop;
+ 4. installare tutti gli aggiornamenti;
+ 5. installare tutti i driver;
+ 6. [disabilitare dalla funzione di ricerca di windows bing](https://morethantech.it/pubblicazioni/253_come-disabilitare-bing-da-start-su-windows-10#metodo-2:-usare-l%E2%80%99editor-del-registro-di-sistema);
+ 7. rimuovere i collegamenti inutili dal menu start;
+ 8. cambiare le impostazioni di risparmio energetico;
+ 9. cambiare le impostazione di explorer;
+ 10. impostare la luce notturna;
+ 11. impostare l'uscita audio predefinita;
+ 12. disattivare le notifiche di win;
+ 13. definire la posizione delle cartelle di win (documenti, download, immagini, video, etc);
+ 14. disattivare i tasti permanenti;
+ 15. attivare win+v;
+ 16. disattivare l'accelerazione del mouse;
+ 17. impostare la rete come privata e disattivare il firewall;
+ 18. impostazioni barra delle applicazioni e personalizzazioni varie (icone di sistema);
+ 19. disattivare l'indicizzazione;
+ 20. ottimizzare il dispositivo con https://github.com/hellzerg/optimizer;
+ 21. installare [Fira Code](https://github.com/tonsky/FiraCode).
 
 
 
