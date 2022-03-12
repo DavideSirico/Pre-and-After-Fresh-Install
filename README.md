@@ -135,7 +135,7 @@ igp11 (ds3)
 [Nvidia Geforce](https://it.download.nvidia.com/GFE/GFEClient/3.25.0.84/GeForce_Experience_v3.25.0.84.exe)
 [Overwolf](https://download.overwolf.com/install/Download?Channel=web_dl_btn)
 [qBitTorrent](https://sourceforge.net/projects/qbittorrent/files/qbittorrent-win32/qbittorrent-4.4.1/qbittorrent_4.4.1_x64_setup.exe/download)
-raspeberry pi imager
+[Raspeberry Pi Imager](https://downloads.raspberrypi.org/imager/imager_latest.exe)
 [Whatsapp](https://web.whatsapp.com/desktop/windows/release/x64/WhatsAppSetup.exe)
 [WinDirStat](https://windirstat.net/wds_current_setup.exe)
 adobe flash player 10
