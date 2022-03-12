@@ -84,27 +84,27 @@ eztiltpen
 [Github Desktop](https://central.github.com/deployments/desktop/desktop/latest/win32)
 [Gitkraken](https://www.gitkraken.com/download/windows64)
 [Google Chrome](https://www.google.com/intl/it_it/chrome/thank-you.html?statcb=1&installdataindex=empty&defaultbrowser=0#)
-google drive file stream
-hp pen controll
-java
-LoL
-mental canvas draw
-suite Office
-visual studio code
+[Google Drive File Stream](https://dl.google.com/drive-file-stream/GoogleDriveSetup.exe)
+[Hp Pen Control](https://www.microsoft.com/en-us/p/hp-pen-control/9pj3vgvq4nmp?activetab=pivot:overviewtab)
+[Java](https://javadl.oracle.com/webapps/download/AutoDL?BundleId=245807_df5ad55fdd604472a86a45a217032c7d)
+[League of Legends](https://signup.euw.leagueoflegends.com/it/signup/redownload?page_referrer=index)
+[Mental Canvas Draw](https://www.microsoft.com/store/apps/9NBLGGH40F1J?cid=mentalcanvas-website)
+[Suite Office](https://www.programmiedovetrovarli.it/pc-win-microsoft-office-2021-crack-office-2013-2021-c2r/)
+[Visual Studio Code](https://code.visualstudio.com/)
 wintab?
-minecraft
-motrix
+[Minecraft](https://www.minecraft.net/download)
+[Motrix](https://dl.motrix.app/release/Motrix-Setup-1.6.11.exe)
 msys2
 multisim
-notepad++
+[Notepad++](https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.3.2/npp.8.3.2.Installer.x64.exe)
 onenote
-virtualbox
-osu!
-paint.net
-parsec
+[Virtualbox](https://download.virtualbox.org/virtualbox/6.1.32/VirtualBox-6.1.32-149290-Win.exe)
+[osu!](https://m1.ppy.sh/r/osu!install.exe)
+[paint.net](https://www.dotpdn.com/files/paint.net.4.3.10.install.anycpu.web.zip)
+[Parsec](https://builds.parsecgaming.com/package/parsec-windows.exe)
 penbook
-postman
-powertoys
+[Postman](https://dl.pstmn.io/download/latest/win64)
+[PowerToys](https://github.com/microsoft/PowerToys/releases/download/v0.56.2/PowerToysSetup-0.56.2-x64.exe)
 python
 quicklook
 spacedesk
@@ -121,24 +121,23 @@ blender
 brave
 curse forge
 droidcam
-epic games
+[Epic Games](https://launcher-public-service-prod06.ol.epicgames.com/launcher/api/installer/download/EpicGamesLauncherInstaller.msi?trackingId=594d5285795f4c26945a76eeb90518f4)
 factorio saves
-free download manager
 ftb app
 gog
-greenshot
+[Greenshot](https://github.com/greenshot/greenshot/releases/download/Greenshot-RELEASE-1.2.10.6/Greenshot-INSTALLER-1.2.10.6-RELEASE.exe)
 hp stampante
-iconviewer
+[IconViewer](https://www.botproductions.com/iconview/download/IconViewer3.02-Setup-x64.exe)
 igp11 (ds3)
-hamachi
-mobalytics
-afterburner
-nexus
-nvidia geforce
-overwolf
-qbittorrent
+[Hamachi](https://www.vpn.net/)
+[Mobalytics](https://cdn.mobalytics.gg/apps/latest/league/win/Mobalytics-Desktop-Win-stable.exe)
+[Afterburner](https://download.msi.com/uti_exe/vga/MSIAfterburnerSetup.zip?__token__=exp=1647244980~acl=/*~hmac=fa3e97b04ab4efaabc6883f9c9647a45cd7e3706fbf3541d129fb3667ab2fd5b)
+[Nexus Dock](https://www.winstep.net/nexus.zip) [Config file](https://docs.google.com/document/d/1CfMBr47TEGWcfUjnSfBOVS6R9GSRXu4N/edit?usp=sharing&ouid=116586417864973098403&rtpof=true&sd=true)
+[Nvidia Geforce](https://it.download.nvidia.com/GFE/GFEClient/3.25.0.84/GeForce_Experience_v3.25.0.84.exe)
+[Overwolf](https://download.overwolf.com/install/Download?Channel=web_dl_btn)
+[qBitTorrent](https://sourceforge.net/projects/qbittorrent/files/qbittorrent-win32/qbittorrent-4.4.1/qbittorrent_4.4.1_x64_setup.exe/download)
 raspeberry pi imager
-whatsapp
-windirstat
+[Whatsapp](https://web.whatsapp.com/desktop/windows/release/x64/WhatsAppSetup.exe)
+[WinDirStat](https://windirstat.net/wds_current_setup.exe)
 adobe flash player 10
 notepads (wul)
