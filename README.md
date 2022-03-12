@@ -28,9 +28,6 @@ TODO list dopo aver installato win
  20. ottimizzare il dispositivo con https://github.com/hellzerg/optimizer;
  21. installare [Fira Code](https://github.com/tonsky/FiraCode).
 
-
-
-
 Estensioni Google Chrome:
 
  1. adblocker (TODO)
@@ -50,6 +47,8 @@ Estensioni Google Chrome:
  15. showpassword
  16. tampermonkey (TODO)
  17. workona
+ 18. [github dimension](https://github.com/harshjv/github-repo-size)
+ 19. [bypass paywalls](https://github.com/iamadamdev/bypass-paywalls-chrome)
 
 Better Discord / Powercord:
 [Link Google Drive](https://drive.google.com/drive/folders/12rYCU6oGiwo7AU8DMFrPKJmSjXiYPKqY?usp=sharing)
@@ -65,25 +64,26 @@ Categorie:
  5. Tools
  6. Aestethics
  7. Touchscreen
-powercord
-TunnelBear
-BlueStacks 5
+
+[TunnelBear](https://www.tunnelbear.com/download)
+[BlueStacks 5](https://cloud.bluestacks.com/api/getdownloadnow?platform=win&win_version=10&mac_version=&client_uuid=4848675b-b565-4299-b0e9-c007efc70128&app_pkg=&platform_cloud=%257B%2522description%2522%253A%2522Chrome%252099.0.4844.51%2520on%2520Windows%252010%252064-bit%2522%252C%2522layout%2522%253A%2522Blink%2522%252C%2522manufacturer%2522%253Anull%252C%2522name%2522%253A%2522Chrome%2522%252C%2522prerelease%2522%253Anull%252C%2522product%2522%253Anull%252C%2522ua%2522%253A%2522Mozilla%252F5.0%2520%28Windows%2520NT%252010.0%253B%2520Win64%253B%2520x64%29%2520AppleWebKit%252F537.36%2520%28KHTML%252C%2520like%2520Gecko%29%2520Chrome%252F99.0.4844.51%2520Safari%252F537.36%2522%252C%2522version%2522%253A%252299.0.4844.51%2522%252C%2522os%2522%253A%257B%2522architecture%2522%253A64%252C%2522family%2522%253A%2522Windows%2522%252C%2522version%2522%253A%252210%2522%257D%257D&preferred_lang=it&utm_source=&utm_medium=&gaCookie=GA1.2.1895463958.1645639952&gclid=&clickid=&msclkid=&affiliateId=&offerId=&transaction_id=&aff_sub=&first_landing_page=&referrer=&download_page_referrer=&utm_campaign=homepage-dl-button-it&exit_utm_campaign=homepage-dl-button-it&incompatible=false&bluestacks_version=bs5)
 CMake
-hw monitor
-davinci
-dev
-devtoys
-dia
-discord
-drawboard pdf
-eartrumpet
-everything
+[HW Monitor](https://download.cpuid.com/hwmonitor/hwmonitor_1.45.exe)
+[DaVinci Resolve](https://sw.blackmagicdesign.com/DaVinciResolve/v17.4.5/DaVinci_Resolve_17.4.5_Windows.zip?Key-Pair-Id=APKAJTKA3ZJMJRQITVEA&Signature=Gt2ECAdIdBSmPpMYg7Mhx9iNuhL25Ad1u268T6bTwHvXC7vSiHK%20L2cYEEle%20KJevhGN2ND4q2BtBConHIWJegC33djaSbss%20729QwQiija9njKXZI89U27qfRucpQFanG1UKCUWkdjvAS3PtGI6B4LyatOHugEwctVihtJmWIlLf2OaHPsIluZ9UKDLMv5o14xn1nIzruVAh7B2Y98EoYDQ2O0wAXVqmtrUUTbi/c/K/bdbFr4N5735pR0tCTwI76gLqwqaPjpHNI/zQjCzWf9qNInw9%20oFPRquCKTbWmPAH61h6WrZKfVafLT5%20fxDGjq5QdYvZ8c7DXicgUNeTg==&Expires=1647108405)
+[Dev-C++](https://sourceforge.net/projects/dev-cpp/files/Binaries/Dev-C++%204.9.9.2/devcpp-4.9.9.2_setup.exe/download)
+[DevToys](https://www.microsoft.com/store/apps/9PGCV4V3BK4W)
+[Dia](http://sourceforge.net/projects/dia-installer/files/dia-win32-installer/0.97.2/dia-setup-0.97.2-2-unsigned.exe/download)
+[Discord](https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable&platform=win&arch=x86)
+[BetterDiscord](https://betterdiscord.app/)
+[Drawboard PDF](https://www.microsoft.com/store/apps/9WZDNCRFHWQT?cid=dbwebsite-download)
+[EarTrumpet](https://www.microsoft.com/store/apps/9nblggh516xp?cid=eartrumpet.landing)
+[Everything](https://www.voidtools.com/Everything-1.4.1.1015.x64-Setup.exe)
 eztiltpen
-files 2.0
-git
-github desktop
-gitkraken
-google chrome
+[Files 2.0](https://www.microsoft.com/en-us/p/files/9nghp3dx8hdx?activetab=pivot:overviewtab)
+[Git](https://github.com/git-for-windows/git/releases/download/v2.35.1.windows.2/Git-2.35.1.2-64-bit.exe)
+[Github Desktop](https://central.github.com/deployments/desktop/desktop/latest/win32)
+[Gitkraken](https://www.gitkraken.com/download/windows64)
+[Google Chrome](https://www.google.com/intl/it_it/chrome/thank-you.html?statcb=1&installdataindex=empty&defaultbrowser=0#)
 google drive file stream
 hp pen controll
 java
@@ -114,13 +114,6 @@ tetr.io
 wallpaper engine
 windows  terminal
 winrar
-
-disable edge search  
-
-estensioni chrome - visual studio code- discord 
-
-backup save ds3
-
 synapse 3
 origin
 battle.net
@@ -147,6 +140,5 @@ qbittorrent
 raspeberry pi imager
 whatsapp
 windirstat
-
 adobe flash player 10
 notepads (wul)
